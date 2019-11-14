@@ -1,13 +1,13 @@
 {
-  "name": "@pongsatt/mycli",
-  "version": "1.0.1",
+  "name": "@kangthink/generate",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
-    "build": "tsc && shx rm -rf dist/templates && shx cp -r templates dist"
+    "build": "tsc && shx rm -rf dist/templates && shx cp -r src/templates dist"
   },
   "bin": {
-    "mycli": "./dist/index.js"
+    "generate": "./dist/index.js"
   },
   "license": "MIT",
   "devDependencies": {
