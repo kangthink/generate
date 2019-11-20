@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "rootDir": "src",
+        "target": "ES5",
+        "baseUrl": ".",
+        "paths": {
+            "@src/*": [
+                "src/*"
+            ]
+        }
+    },
+    "exclude": [
+        "test",
+        "node_modules"
+    ]
+}
