@@ -1,5 +1,5 @@
 # generate
-빠른 프로젝트 시작을 위한 템플릿 모음. [https://github.com/kangthink/environment](https://github.com/kangthink/environment)를 참조하여 환경을 설정하고 그 위에 소스코드를 시작하면 됨.
+빠른 프로젝트 시작을 위한 템플릿 모음. [environment](https://github.com/kangthink/environment)를 참조하여 환경을 설정하고 그 위에 소스코드를 시작하면 됨.
 
 ## 사용법
 1. 프로젝트 루트에서는 'yarn start` 실행
